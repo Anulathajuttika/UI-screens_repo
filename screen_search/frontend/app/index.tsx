@@ -15,7 +15,7 @@ import { Ionicons } from "@expo/vector-icons";
 /** Search results screen — reverse-engineered from REF_search-1.png. Self-contained, white theme. */
 
 const Colors = {
-  brand: "#5B3CC4",
+  brand: "#6A4DBB",
   background: "#FFFFFF",
   pageTint: "#F4F4F7",
   card: "#FFFFFF",

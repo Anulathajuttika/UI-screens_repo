@@ -7,16 +7,16 @@ import { Ionicons } from "@expo/vector-icons";
 /** Ticket Closed (success) screen — self-contained, reverse-engineered from FX_closed-1.png. */
 
 const Colors = {
-  headerTop: "#6B4CD6",
-  headerBottom: "#5B3CC4",
-  brand: "#5B3CC4",
+  headerTop: "#7C5FCC",
+  headerBottom: "#6A4DBB",
+  brand: "#6A4DBB",
   buttonFill: "#6E59C7",
   background: "#FFFFFF",
   title: "#1C1B2E",
   body: "#6E6E7A",
   green: "#2AA457",
   star: "#F5A623",
-  confettiPurple: "#7C5CE0",
+  confettiPurple: "#7C5FCC",
   confettiBlue: "#4DA3F2",
   confettiPink: "#F06FB0",
   confettiYellow: "#F5A623",

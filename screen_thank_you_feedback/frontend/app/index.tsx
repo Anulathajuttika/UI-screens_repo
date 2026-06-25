@@ -7,15 +7,15 @@ import { Ionicons } from "@expo/vector-icons";
 /** Thank You (feedback) screen — self-contained, reverse-engineered from REF_thankfeedback-1.png. */
 
 const Colors = {
-  headerTop: "#6B4CD6",
-  headerBottom: "#5B3CC4",
-  brand: "#5B3CC4",
+  headerTop: "#7C5FCC",
+  headerBottom: "#6A4DBB",
+  brand: "#6A4DBB",
   background: "#FFFFFF",
   title: "#1C1B2E",
   body: "#6E6E7A",
   green: "#2AA457",
   greenSoftBg: "#E5F6EE",
-  confettiPurple: "#7C5CE0",
+  confettiPurple: "#7C5FCC",
   confettiBlue: "#4DA3F2",
   confettiPink: "#F06FB0",
   confettiYellow: "#F5A623",

@@ -14,9 +14,9 @@ import { Ionicons } from "@expo/vector-icons";
 /** Work Completed / My Tickets timeline screen. Self-contained, no external assets. */
 
 const Colors = {
-  headerTop: "#6B4CD6",
-  headerBottom: "#5B3CC4",
-  brand: "#5B3CC4",
+  headerTop: "#7C5FCC",
+  headerBottom: "#6A4DBB",
+  brand: "#6A4DBB",
   background: "#FFFFFF",
   cardBorder: "#ECECF2",
   title: "#1C1B2E",

@@ -7,16 +7,16 @@ import { Ionicons } from "@expo/vector-icons";
 /** Thank You screen — reverse-engineered from thank_you.pdf. Self-contained. */
 
 const Colors = {
-  headerTop: "#6E52C7",
-  headerBottom: "#5B3FB5",
-  brand: "#4B2FA8",
+  headerTop: "#7C5FCC",
+  headerBottom: "#6A4DBB",
+  brand: "#6A4DBB",
   background: "#FFFFFF",
   title: "#1C1B2E",
   body: "#3A3A45",
   cardBorder: "#E6E4F1",
   circleBg: "#F1EFFC",
   green: "#27AE60",
-  confetti: "#5B3FB5",
+  confetti: "#6A4DBB",
 };
 
 export default function ThankYouScreen() {
@@ -32,6 +32,11 @@ export default function ThankYouScreen() {
         style={styles.headerStrip}
       >
         <SafeAreaView edges={["top"]}>
+          <View style={styles.headerRow}>
+            <Pressable testID="back-button" hitSlop={12} onPress={() => {}}>
+              <Ionicons name="arrow-back" size={24} color="#FFFFFF" />
+            </Pressable>
+          </View>
         </SafeAreaView>
       </LinearGradient>
 
@@ -70,6 +75,7 @@ export default function ThankYouScreen() {
 const styles = StyleSheet.create({
   root: { flex: 1, backgroundColor: Colors.background },
   headerStrip: { height: 110 },
+  headerRow: { flexDirection: "row", alignItems: "center", paddingHorizontal: 16, paddingTop: 12 },
 
   body: { flex: 1, paddingHorizontal: 24, justifyContent: "space-between" },
   content: { flex: 1, alignItems: "center", justifyContent: "center" },

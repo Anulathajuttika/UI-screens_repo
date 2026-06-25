@@ -16,9 +16,9 @@ import { Ionicons } from "@expo/vector-icons";
 /** Add Review screen — reverse-engineered from submit_review.pdf. Self-contained. */
 
 const Colors = {
-  headerTop: "#6E52C7",
-  headerBottom: "#5B3FB5",
-  brand: "#4B2FA8",
+  headerTop: "#7C5FCC",
+  headerBottom: "#6A4DBB",
+  brand: "#6A4DBB",
   background: "#FFFFFF",
   cardBorder: "#E2E2EA",
   title: "#1C1B2E",

@@ -15,10 +15,10 @@ import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
 /** Offers & Updates screen — reverse-engineered from offers_updates.pdf. Self-contained. */
 
 const Colors = {
-  headerTop: "#6E52C7",
-  headerBottom: "#5B3FB5",
-  brand: "#5B3FB5",
-  brandText: "#4B2FA8",
+  headerTop: "#7C5FCC",
+  headerBottom: "#6A4DBB",
+  brand: "#6A4DBB",
+  brandText: "#6A4DBB",
   background: "#FFFFFF",
   pageTint: "#FFFFFF",
   card: "#FFFFFF",
@@ -30,7 +30,7 @@ const Colors = {
   chipBg: "#EEEBFA",
   tabActiveBg: "#EFEBFA",
   tabInactive: "#3A3A45",
-  tintPurpleBg: "#5B3FB5",
+  tintPurpleBg: "#6A4DBB",
   tintGreenBg: "#E5F6EE",
   tintGreen: "#2BB673",
   tintOrangeBg: "#FDEEDF",

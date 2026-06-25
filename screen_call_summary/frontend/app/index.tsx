@@ -15,9 +15,9 @@ import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
 /** Cool Breeze AC Services — Call Summary chat screen. Self-contained, no external src imports. */
 
 const Colors = {
-  headerTop: "#6B4CD6",
-  headerBottom: "#5B3CC4",
-  brand: "#5B3CC4",
+  headerTop: "#7C5FCC",
+  headerBottom: "#6A4DBB",
+  brand: "#6A4DBB",
   background: "#FFFFFF",
   chatBg: "#F6F5FB",
   botBubble: "#FFFFFF",

@@ -15,10 +15,10 @@ import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
 /** Reviews screen — reverse-engineered from reviews.pdf. Self-contained. */
 
 const Colors = {
-  headerTop: "#6E52C7",
-  headerBottom: "#5B3FB5",
-  brand: "#5B3FB5",
-  brandText: "#4B2FA8",
+  headerTop: "#7C5FCC",
+  headerBottom: "#6A4DBB",
+  brand: "#6A4DBB",
+  brandText: "#6A4DBB",
   background: "#FFFFFF",
   card: "#FFFFFF",
   cardBorder: "#ECECF2",

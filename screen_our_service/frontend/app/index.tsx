@@ -20,16 +20,16 @@ import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
  */
 
 const Colors = {
-  headerTop: "#5B3CC4",
-  headerBottom: "#5B3CC4",
-  brand: "#5B3CC4",
+  headerTop: "#6A4DBB",
+  headerBottom: "#6A4DBB",
+  brand: "#6A4DBB",
   background: "#FFFFFF",
   pageTint: "#F6F5FB",
   card: "#FFFFFF",
   cardBorder: "#ECECF2",
   title: "#1C1B2E",
   body: "#6E6E7A",
-  price: "#5B3CC4",
+  price: "#6A4DBB",
   chevronBg: "#EFEBFA",
   tabActiveBg: "#EFEBFA",
   tabInactive: "#3A3A45",
@@ -226,7 +226,7 @@ export default function OurServicesScreen() {
       >
         {/* ---------- Hero banner ---------- */}
         <LinearGradient
-          colors={["#6B4CD6", "#5B3CC4"]}
+          colors={["#7C5FCC", "#6A4DBB"]}
           start={{ x: 0, y: 0 }}
           end={{ x: 1, y: 1 }}
           style={styles.hero}

@@ -13,7 +13,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 
 /** Inline palette (house convention: no external imports). */
 const Colors = {
-  primary: "#5B3CC4",
+  primary: "#6A4DBB",
   successGreen: "#2AA457",
   pageTint: "#F6F5FB",
   cardBorder: "#ECECF2",

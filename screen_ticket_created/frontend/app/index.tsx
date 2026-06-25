@@ -14,9 +14,9 @@ import { Ionicons, MaterialCommunityIcons } from "@expo/vector-icons";
 /** Ticket Created screen — reverse-engineered from REF_ticketcreated-1.png. Self-contained. */
 
 const Colors = {
-  headerTop: "#6B4CD6",
-  headerBottom: "#5B3CC4",
-  brand: "#5B3CC4",
+  headerTop: "#7C5FCC",
+  headerBottom: "#6A4DBB",
+  brand: "#6A4DBB",
   ticketId: "#3A2CC4",
   background: "#FFFFFF",
   pageTint: "#F6F5FB",
